@@ -16,6 +16,7 @@
 	- [3D Vision Tasks](#papers-3d)
 		- [Point Cloud Processing](#papers-point-cloud)
 		- [Motion Modeling](#papers-motion)
+		- [Human Body Modeling](#papers-body)
 	- [Others](#papers-others)
 		- [Music Modeling](#papers-music)
 
@@ -81,6 +82,14 @@
 [Learning to Generate Diverse Dance Motions with Transformer](https://arxiv.org/pdf/2008.08171.pdf). Jiaman Li, Yihang Yin, Hang Chu, Yi Zhou, Tingwu Wang, Sanja Fidler, Hao Li. Arxiv 2020.
 
 [A Spatio-temporal Transformer for 3D Human Motion Prediction](https://arxiv.org/pdf/2004.08692.pdf). Emre Aksan*, Peng Cao*, Manuel Kaufmann, Otmar Hilliges. Arxiv 2020.
+
+<a name="papers-body"></a>
+### Human Body Modeling
+
+[End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/pdf/2012.09760.pdf). Kevin Lin, Lijuan Wang, Zicheng Liu. Arxiv 2020.
+
+<a name="papers-others"></a>
+## Others
 
 <a name="papers-music"></a>
 ### Music Modeling
