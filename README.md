@@ -8,6 +8,7 @@
 - [Papers](#papers)
 	- [Original Paper](#papers-ori)
 	- [2D Vision Tasks](#papers-2d)
+		- [Classification](#papers-classification)
 		- [Detection](#papers-detection)
 		- [Segmentation](#papers-segmentation)
 		- [Tracking](#papers-tracking)
@@ -33,6 +34,11 @@
 
 <a name="papers-2d"></a>
 ## 2D Vision Tasks
+
+<a name="papers-classification"></a>
+### Classification
+
+[AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf). Alexey Dosovitskiy∗, Lucas Beyer∗, Alexander Kolesnikov∗, Dirk Weissenborn∗, Xiaohua Zhai∗, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby. Arxiv 2020. 
 
 <a name="papers-detection"></a>
 ### Detection
