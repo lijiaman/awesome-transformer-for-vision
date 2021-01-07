@@ -49,6 +49,10 @@
 
 [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf). Zhigang Dai1, Bolun Cai, Yugeng Lin, Junying Chen. Arxiv 2020.
 
+[DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION](https://arxiv.org/pdf/2010.04159.pdf). Xizhou Zhu∗, Weijie Su∗, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai. Arxiv 2020. 
+
+[End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf). Nicolas Carion*, Francisco Massa*, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, and Sergey Zagoruyko. ECCV 2020.
+
 <a name="papers-segmentation"></a>
 ### Segmentation
 
