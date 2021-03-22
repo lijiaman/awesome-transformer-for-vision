@@ -43,6 +43,10 @@
 <a name="papers-detection"></a>
 ### Detection
 
+[Fast Convergence of DETR with Spatially Modulated Co-Attention](https://arxiv.org/pdf/2101.07448.pdf). Peng Gao, Minghang Zheng, Xiaogang Wang, Jifeng Dai, Hongsheng Li. Arxiv 2021.
+
+[End-to-End Object Detection with Adaptive Clustering Transformer](https://arxiv.org/pdf/2011.09315.pdf). Minghang Zheng, Peng Gao, Xiaogang Wang, Hongsheng Li, Hao Dong. Arxiv 2020.
+
 [Toward Transformer-Based Object Detection](https://arxiv.org/pdf/2012.09958.pdf). Josh Beal*, Eric Kim*, Eric Tzeng, Dong Huk Park, Andrew Zhai, Dmitry Kislyuk. Arxiv 2020.
 
 [Rethinking Transformer-based Set Prediction for Object Detection](https://arxiv.org/pdf/2011.10881.pdf). Zhiqing Sun*, Shengcao Cao*, Yiming Yang, Kris Kitani. Arxiv 2020.
