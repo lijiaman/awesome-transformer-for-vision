@@ -58,6 +58,8 @@
 [End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf). Nicolas Carion*, Francisco Massa*, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, and Sergey Zagoruyko. ECCV 2020.
 
 <a name="papers-segmentation"></a>
+[Dual DETRs for Multi-Label Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html). Yuhan Zhu, Guozhen Zhang, Jing Tan, Gangshan Wu, Limin Wang. CVPR 2024.
+
 ### Segmentation
 
 [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/pdf/2012.15840.pdf). Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip H.S. Torr, Li Zhang. Arxiv 2020.
@@ -81,6 +83,8 @@
 
 
 <a name="papers-3d"></a>
+[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935). Xinhao Li, Yuhan Zhu, et al.. arXiv 2026. [Code](https://github.com/MCG-NJU/VideoChat3).
+
 ## 3D Vision Tasks
 
 <a name="papers-point-cloud"></a>
